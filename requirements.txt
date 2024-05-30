@@ -1,0 +1,4 @@
+crewai[tools]
+langchain
+qdrant-client
+langchain-groq
